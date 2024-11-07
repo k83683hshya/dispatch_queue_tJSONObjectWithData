@@ -10,29 +10,5 @@
     {
         "password": "mk7",
         "udids": ["69A0DE51-935C-43D1-83C1-8F5C43560B49", "none", "none"]
-    },
-    {
-        "password": "muce7",
-        "udids": ["446A5588-2312-4DC8-A880-25BD928D5335", "317A7106-4764-4176-B9EB-80FE52D96533", "none"]
-    },
-    {
-        "password": "jao",
-        "udids": ["1A6552ED-1288-4BB7-827B-366B8B89B4B3", "none", "none"]
-    },
-    {
-        "password": "silva",
-        "udids": ["B5E82AEC-22AD-493F-B03F-DB987143E043", "none", "none"]
-    },
-    {
-        "password": "guh",
-        "udids": ["DA86C17C-1BB2-4DE3-8ECF-98C0272E2538", "EE805356-B316-4BA0-8DD5-2AAFB624BF81", "none"]
-    },
-    {
-        "password": "2",
-        "udids": ["7C068922-0D0C-4C09-A0FD-CA4208DEADD1", "none", "none"]
-    },
-    {
-        "password": "3241",
-        "udids": ["CEC343A2-36C8-4A55-9ADE-8EAC6818949C", "none", "none"]
     }
 ]
