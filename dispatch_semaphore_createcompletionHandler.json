@@ -1,7 +1,14 @@
-{
-    "udids": [
-        "8A84A958-BD24-43A3-9014-751F1C5B4186",
-        "UDID_2",
-        "UDID_3"
-    ]
-}
+[
+ {
+        "password": "gbzin",
+        "udids": ["62839A4F-9AD4-4B0E-9AFA-40CD9D8D469F", "none", "none"]
+    },
+    {
+        "password": "pivete7",
+        "udids": ["A19C2E0D-2BCD-4B86-8032-D295CADB6432", "none", "none"]
+    },
+    {
+        "password": "mk7",
+        "udids": ["69A0DE51-935C-43D1-83C1-8F5C43560B49", "none", "none"]
+    }
+]
