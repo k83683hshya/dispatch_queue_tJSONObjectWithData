@@ -1,14 +1,14 @@
 [
  {
-        "password": "ehren",
-        "udids": ["8A84A958-BD24-43A3-9014-751F1C5B4186", "none", "none"]
+        "password": "1",
+        "udids": ["CEC343A2-36C8-4A55-9ADE-8EAC6818949C", "none", "none"]
     },
     {
-        "password": "pivete7",
+        "password": "2",
         "udids": ["A19C2E0D-2BCD-4B86-8032-D295CADB6432", "none", "none"]
     },
     {
-        "password": "mk7",
+        "password": "3",
         "udids": ["69A0DE51-935C-43D1-83C1-8F5C43560B49", "none", "none"]
     }
 ]
