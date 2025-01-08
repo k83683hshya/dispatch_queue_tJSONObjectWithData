@@ -1,5 +1,5 @@
 {
-  "host de segurança": true,
+  "host de segurança": false,
   "senha2": true,
   "senha3": true
 }
